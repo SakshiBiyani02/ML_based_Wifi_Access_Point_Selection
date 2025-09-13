@@ -101,7 +101,8 @@ Trained with ML models, it significantly improves AP selection accuracy.
 ==== Testing Metrics ====
 Top-1 Accuracy: 0.8165
 Top-5 Accuracy: 0.9771
-
+![img1](https://github.com/SakshiBiyani02/ML_based_Wifi_Access_Point_Selection/blob/main/Screenshot%202025-09-13%20115227.png?raw=true)
+![img2](https://github.com/SakshiBiyani02/ML_based_Wifi_Access_Point_Selection/blob/main/Screenshot%202025-09-13%20115244.png?raw=true)
 **Result:** The composite ML-based method **vastly outperforms** the RSSI-only approach, achieving over **81% Top-1 accuracy** and nearly **98% Top-5 accuracy**.  
 
 ---
